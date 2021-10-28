@@ -1,0 +1,16 @@
+main: com.blackoutburst.sim.main.Main
+name: HypixelSim
+version: 0.1
+api-version: 1.13
+author: Blackoutburst
+description: Hypixel Simulator plugin
+commands:
+  start:
+    description: Start the game
+    usage: /start
+  end:
+    description: End the game
+    usage: /end
+  scan:
+    description: Scan sponge block
+    usage: /scan
